@@ -1,0 +1,9 @@
+C:\dev\workspace\repo\ProblemB\FootballConference\bin\Debug\ProblemB.exe.config
+C:\dev\workspace\repo\ProblemB\FootballConference\obj\Debug\ProblemB.csprojResolveAssemblyReference.cache
+C:\dev\workspace\repo\ProblemB\FootballConference\bin\Debug\football.json
+C:\dev\workspace\repo\ProblemB\FootballConference\bin\Debug\ProblemB.exe
+C:\dev\workspace\repo\ProblemB\FootballConference\bin\Debug\ProblemB.pdb
+C:\dev\workspace\repo\ProblemB\FootballConference\bin\Debug\Newtonsoft.Json.dll
+C:\dev\workspace\repo\ProblemB\FootballConference\bin\Debug\Newtonsoft.Json.xml
+C:\dev\workspace\repo\ProblemB\FootballConference\obj\Debug\ProblemB.exe
+C:\dev\workspace\repo\ProblemB\FootballConference\obj\Debug\ProblemB.pdb

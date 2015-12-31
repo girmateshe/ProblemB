@@ -1,0 +1,66 @@
+﻿[
+  {
+    "name": "Arizona Cardinals",
+    "mascot": "Big Red"
+  },
+  {
+    "name": "Atlanta Falcons",
+    "mascot": "Freddie Falcon"
+  },
+  {
+    "name": "Carolina Panthers",
+    "mascot": "Sir Purr"
+  },
+  {
+    "name": "Chicago Bears",
+    "mascot": "Staley Da Bear"
+  },
+  {
+    "name": "Dallas Cowboys",
+    "mascot": "Rowdy"
+  },
+  {
+    "name": "Detroit Lions",
+    "mascot": "Roary"
+  },
+  {
+    "name": "Green Bay Packers",
+    "mascot": "None"
+  },
+  {
+    "name": "Minnesota Vikings",
+    "mascot": "Ragnar, Viktor"
+  },
+  {
+    "name": "New Orleans Saints",
+    "mascot": "Gumbo, Sir Saint"
+  },
+  {
+    "name": "New York Giants",
+    "mascot": "None"
+  },
+  {
+    "name": "Philadelphia Eagles",
+    "mascot": "Swoop, Air Swoop"
+  },
+  {
+    "name": "St. Louis Rams",
+    "mascot": "Rampage"
+  },
+  {
+    "name": "San Francisco 49ers",
+    "mascot": "Sourdough Sam"
+  },
+  {
+    "name": "Seattle Seahawks",
+    "mascot": "Blitz; Boom; Taima"
+  },
+  {
+    "name": "Tampa Bay Buccaneers",
+    "mascot": "Captain Fear"
+  },
+  {
+    "name": "Washington Redskins",
+    "mascot": "None"
+  }
+]
